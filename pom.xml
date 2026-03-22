@@ -5,7 +5,7 @@
     <name>JavaSpringBootSample</name>
 
     <groupId>com.gestor</groupId>
-    <artifactId>manager</artifactId>
+    <artifactId>product-manager</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
