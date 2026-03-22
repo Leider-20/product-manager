@@ -1,9 +1,9 @@
-package com.hackerrank.sample.service;
+package com.product.manager.service;
 
-import com.hackerrank.sample.exception.BadResourceRequestException;
-import com.hackerrank.sample.exception.NoSuchResourceFoundException;
-import com.hackerrank.sample.model.Product;
-import com.hackerrank.sample.repository.ProductRepository;
+import com.product.manager.exception.BadResourceRequestException;
+import com.product.manager.exception.NoSuchResourceFoundException;
+import com.product.manager.model.Product;
+import com.product.manager.repository.ProductRepository;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.hackerrank.sample.model;
+package com.product.manager.model;
 
 import lombok.*;
 

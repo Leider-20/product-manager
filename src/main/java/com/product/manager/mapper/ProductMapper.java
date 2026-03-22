@@ -1,8 +1,8 @@
-package com.hackerrank.sample.mapper;
+package com.product.manager.mapper;
 
-import com.hackerrank.sample.dto.ProductRequestDTO;
-import com.hackerrank.sample.dto.ProductResponseDTO;
-import com.hackerrank.sample.model.Product;
+import com.product.manager.dto.ProductRequestDTO;
+import com.product.manager.dto.ProductResponseDTO;
+import com.product.manager.model.Product;
 import org.mapstruct.Mapper;
 
 import java.util.List;

@@ -1,9 +1,10 @@
 package com.hackerrank.sample.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hackerrank.sample.dto.ProductRequestDTO;
-import com.hackerrank.sample.mapper.ProductMapper;
-import com.hackerrank.sample.service.ProductService;
+import com.product.manager.controller.ProductController;
+import com.product.manager.dto.ProductRequestDTO;
+import com.product.manager.mapper.ProductMapper;
+import com.product.manager.service.ProductService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

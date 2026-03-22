@@ -1,8 +1,8 @@
-package com.hackerrank.sample.repository;
+package com.product.manager.repository;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hackerrank.sample.model.Product;
+import com.product.manager.model.Product;
 import org.springframework.stereotype.Repository;
 
 import java.io.File;

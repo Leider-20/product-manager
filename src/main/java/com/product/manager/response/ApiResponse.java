@@ -1,4 +1,4 @@
-package com.hackerrank.sample.response;
+package com.product.manager.response;
 
 import lombok.*;
 

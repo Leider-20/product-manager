@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <name>JavaSpringBootSample</name>
 
-    <groupId>com.hackerrank</groupId>
-    <artifactId>sample</artifactId>
+    <groupId>com.gestor</groupId>
+    <artifactId>manager</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 

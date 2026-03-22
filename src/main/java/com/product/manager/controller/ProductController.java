@@ -1,14 +1,14 @@
-package com.hackerrank.sample.controller;
+package com.product.manager.controller;
 
 import java.util.List;
 
-import com.hackerrank.sample.dto.ProductRequestDTO;
-import com.hackerrank.sample.dto.ProductResponseDTO;
-import com.hackerrank.sample.exception.BadResourceRequestException;
-import com.hackerrank.sample.mapper.ProductMapper;
-import com.hackerrank.sample.model.Product;
-import com.hackerrank.sample.response.ApiResponse;
-import com.hackerrank.sample.service.ProductService;
+import com.product.manager.dto.ProductRequestDTO;
+import com.product.manager.dto.ProductResponseDTO;
+import com.product.manager.exception.BadResourceRequestException;
+import com.product.manager.mapper.ProductMapper;
+import com.product.manager.model.Product;
+import com.product.manager.response.ApiResponse;
+import com.product.manager.service.ProductService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

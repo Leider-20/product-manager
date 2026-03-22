@@ -1,4 +1,4 @@
-package com.hackerrank.sample.exception;
+package com.product.manager.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

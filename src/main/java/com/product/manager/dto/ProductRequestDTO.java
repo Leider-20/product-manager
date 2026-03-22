@@ -1,4 +1,4 @@
-package com.hackerrank.sample.dto;
+package com.product.manager.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.validation.constraints.*;

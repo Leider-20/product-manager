@@ -1,4 +1,4 @@
-package com.hackerrank.sample.dto;
+package com.product.manager.dto;
 
 import lombok.*;
 

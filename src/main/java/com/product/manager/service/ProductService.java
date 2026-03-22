@@ -1,6 +1,7 @@
-package com.hackerrank.sample.service;
+package com.product.manager.service;
 
-import com.hackerrank.sample.model.Product;
+import com.product.manager.model.Product;
+
 import java.util.List;
 
 public interface ProductService {
