@@ -1,7 +1,6 @@
-package com.hackerrank.sample.repository;
+package com.product.manager.repository;
 
 import com.product.manager.model.Product;
-import com.product.manager.repository.ProductRepository;
 import org.junit.jupiter.api.*;
 
 import java.util.List;

@@ -1,8 +1,7 @@
-package com.hackerrank.sample.service;
+package com.product.manager.service;
 
 import com.product.manager.model.Product;
 import com.product.manager.repository.ProductRepository;
-import com.product.manager.service.ProductServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.*;

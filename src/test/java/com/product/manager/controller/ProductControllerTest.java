@@ -1,7 +1,6 @@
-package com.hackerrank.sample.controller;
+package com.product.manager.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.product.manager.controller.ProductController;
 import com.product.manager.dto.ProductRequestDTO;
 import com.product.manager.mapper.ProductMapper;
 import com.product.manager.service.ProductService;
