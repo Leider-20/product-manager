@@ -8,7 +8,7 @@ import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ProductRepositoryTest {
+class ProductRepositoryTest {
 
     private ProductRepository repository;
 

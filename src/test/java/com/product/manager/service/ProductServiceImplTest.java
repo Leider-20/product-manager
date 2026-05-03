@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
 @ExtendWith(MockitoExtension.class) //Enable Mockito support for unit tests
-public class ProductServiceImplTest {
+class ProductServiceImplTest {
 
     @Mock
     private ProductRepository repository; //Mock repository dependency
